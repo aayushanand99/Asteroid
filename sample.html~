@@ -24,7 +24,7 @@
 </head>
 
 <body>
-	<h1 id="heading1" class="header">My first page</h1>
+	<h1 id="heading2" class="header">My first page</h1>
 	<p>Welcome to my first page!!!!!<br>feel free</p>
 	
 	<h2 id="heading2" class="header">My page</h2>
